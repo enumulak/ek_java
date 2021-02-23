@@ -1,2 +1,2 @@
-# ek_java
+# Java Projects
 Central Repository for all Java Projects
